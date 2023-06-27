@@ -42,7 +42,7 @@ There is a detailed example project in the `example` folder. Check that out or k
 You need a firebase project with [Firestore](https://pub.dartlang.org/packages/cloud_firestore) setup.
 
 ```dart
-import 'package:geoflutterfire/geoflutterfire.dart';
+import 'package:geoflutterfire/geo_fire_fz.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 // Init firestore and geoFlutterFire
